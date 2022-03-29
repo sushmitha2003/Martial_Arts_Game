@@ -1,0 +1,20 @@
+.backGround-image {
+    background-image: url("images/background.jpg");
+    background-size: 1550px 750px;
+  }
+  .div1{
+    padding-top: 4%;
+  }
+  .btn{
+  width: 12%;
+    border-radius: 5px;
+    
+  }
+  .btn:hover{
+    background-color: black;
+    color: whitesmoke;
+  }
+  .head{
+    padding-top: 1%;
+    text-align: center;
+  }
